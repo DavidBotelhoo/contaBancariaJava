@@ -5,10 +5,10 @@ Projeto de um programa em java que simula uma conta bancaria, no qual utilizo m�
 
 ## 🚀 Tecnologias:
 <div>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img width="70" alt="Icone da linguagem de programção Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 
 ## Imagens do projeto
 <div>
-    <img src="img/imagemProjeto.png" width="400">
+    <img alt="Imagem do projeto especificado acima" src="img/imagemProjeto.png" width="423">
 </div>
