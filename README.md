@@ -7,3 +7,8 @@ Projeto de um programa em java que simula uma conta bancaria, no qual utilizo m√
 <div>
   <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
+
+## Imagens do projeto
+<div>
+    <img src="img/imagemProjeto.png" width="400">
+</div>
